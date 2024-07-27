@@ -1,4 +1,4 @@
-# simple QA chat with IBM Watsonx.ai guide project for free
+# simple QA chat with IBM Watsonx.ai
 
 # requirments
 - python
