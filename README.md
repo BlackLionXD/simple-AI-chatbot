@@ -1,4 +1,4 @@
-# simple QA chat with IBM Watsonx.ai
+# Simple QA chatbot with IBM Watsonx.ai
 
 # requirments
 - python
