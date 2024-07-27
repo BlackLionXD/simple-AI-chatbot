@@ -5,7 +5,7 @@
 - IBM Cloud Account ( project-id & API- key ) 
 
 # Steps
-- clone the project : 'git clone '
+- clone the project : 'git clone https://github.com/BlackLionXD/simple-AI-chatbot.git'
 - create an environment variable : 'python -m venv your_env_name' ( windows ) or 'python3 -m venv your_env_name'
 - Activate your environment variable : 'your_env_name/Scripts/activate' (windows) or 'source your_env_name/bin/activate'(linux )
 - install requirement variable : 'pip install ibm-watson-machine-learning'
@@ -27,4 +27,4 @@
 -  you can test the project by updating your question
 
 # Screenshot
-[!Screenshot]('screenshot.png')
+[!Screenshot]('screenshot.PNG')
